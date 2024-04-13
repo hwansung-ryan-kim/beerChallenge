@@ -1,4 +1,5 @@
 
+/* My name is Hwansung */ 
 function beerCount () { 
     let i = 1
 
